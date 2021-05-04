@@ -1,4 +1,4 @@
-# finance_calculator
+# finance_calculator(capstone project 1 level_1)
 
 ● Create a new Python file in this folder called finance_calculators.py.
 ● At the top of the file include the line import math
@@ -15,7 +15,7 @@ entries. If the user doesn’t type in a valid input, show an appropriate
 error message.
 
 
-2. If the user selects ‘investment’, do the following:
+2. If the user selects #‘investment’, do the following:
 
 ■ Ask the user to input:
 ● The amount of money that they are depositing.
